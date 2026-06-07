@@ -1,23 +1,102 @@
-# 🚀 Rocket Dataset Analysis
+# 🚀 Rocket Systems Analysis
 
-## 🌐 Live Report
-👉 https://saracrnomarkovic.github.io/Analysis-of-a-Manually-Collected-Rocket-Dataset/
-## 📌 Project Overview
-This project analyzes a manually collected dataset of rockets and explores the relationship between their characteristics and maximum range.
+Machine learning analysis of a manually collected rocket dataset.
 
-## 📂 Files
-- index.html – complete analysis report with explanations and visualizations
-- SS3SeminarskiFinal.Rmd – RMarkdown file with code and explanations
-- rakete.ods – dataset used in the analysis
+The project investigates how physical and technical characteristics of missile and rocket systems relate to their maximum range and launch methods.
 
-## ⚙️ Methodology
-- Data preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical modeling
-- Interpretation of results
+---
 
-## 📈 Results
-The analysis identifies key factors that influence rocket range and demonstrates how data can be used for predictive modeling.
+## 🎯 Project Objectives
 
-## 🧠 Goal
-The goal of this project is to demonstrate practical data science skills using R on a real-world dataset.
+- Predict maximum range using regression models
+- Classify launch system characteristics
+- Discover hidden structures using clustering algorithms
+- Compare machine learning methods on a real-world engineering dataset
+
+---
+
+## 📊 Dataset
+
+The dataset contains manually collected information about rocket systems, including:
+
+- Mass
+- Length
+- Caliber
+- Payload
+- Fuel type
+- Number of stages
+- Launch method
+- Number of warheads
+- Maximum range
+
+---
+
+## 🤖 Machine Learning Methods
+
+### Regression
+
+- Linear Regression
+- Random Forest Regression
+
+### Classification
+
+- Logistic Regression
+- Ridge Logistic Regression
+
+### Clustering
+
+- K-Means
+- Hierarchical Clustering
+
+---
+
+## 📈 Evaluation
+
+Models were evaluated using:
+
+- RMSE
+- MAE
+- Accuracy
+- ROC Curve
+- Confusion Matrix
+- Cross Validation
+
+---
+
+## 🌐 Interactive Report
+
+👉 Live report:
+
+https://saracrnomarkovic.github.io/Analysis-of-a-Manually-Collected-Rocket-Dataset/
+
+---
+
+## 🛠 Technologies
+
+- R
+- R Markdown
+- caret
+- randomForest
+- glmnet
+- mice
+- corrplot
+
+---
+
+## 📚 Topics
+
+Machine Learning • Statistics • Regression • Classification • Clustering • Data Analysis • Predictive Modeling
+
+---
+
+## 👩‍💻 Author
+
+Sara Crnomarkovic
+
+Faculty of Mathematics, University of Belgrade
+
+📧 sara.crnomarkovic2002@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/saracrnomarkovic/
+
+🔗 GitHub: https://github.com/saracrnomarkovic
